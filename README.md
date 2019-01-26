@@ -1,6 +1,6 @@
-# Famazon
+# Bamazon App
 
-###Welcome to Famazon!
+###Welcome to Bamazon!
 
 ####Using this node and mysql application you will be able to allow customers to purchase products in store and allow managers to view, add and modify products.
 
